@@ -20,13 +20,13 @@ export const projects = [
     },
     {
         "_id": 3,
-        "name": "Easy",
+        "name": "EasySave",
         "description": "Le principal objectif de ce projet est de sensibiliser les collégiens, lycéens et étudiants du groupe Mont-Roland aux dons de sang et de moelle osseuse et de les aider à trouver les associations qui collectent ces dons dans leur région. Ce projet a été développé en utilisant le framework Laravel et est hébergé dans le réseau intranet du lycée. Il a été réalisé en équipe de 3 personnes dans le cadre de ma deuxième année de BTS SIO (Services Informatiques aux Organisations).",
-        "image": "ids.png",
+        "image": "EasySave.png",
         "links": {
             "github": "#"
         },
-        "skills": ["Laravel", "Bootstrap"]
+        "skills": ["C#", "WPF",, ".NetCore"]
     },
     {
         "_id": 4,
