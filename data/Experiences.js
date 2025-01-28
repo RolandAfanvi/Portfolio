@@ -1,9 +1,37 @@
 export const experiences = [
     {
         "_id": 3,
+        "title": "(Alternance) Data engineering & Analytics",
+        "from": "Sept 2024",
+        "to": "Actuellement",
+        "logo": "SGPAM.png",
+        "description": "Pendant mon alternance, j'ai été chargé de deux projets. Le premier consiste à créer des dashboards PowerBI en se connectant a la datalake Snowflake. Le second projet vise à créer des pipelines de donnée",
+        "company": {
+            "name": "Saint-Gobain PAM Canalisation",
+            "location": "Pont-à-Mousson ",
+            "website": "https://www.pamline.fr/saint-gobain-pam"
+        },
+        "skills": ["Python", "SQL","GitHub","GitLab", "Django","FastAPI"]
+    },
+    {
+        "_id": 2,
+        "title": "Datathon",
+        "from": "5 Avril 2024",
+        "to": "7 Avril 2024",
+        "logo": "ids.png",
+        "description": "Au cours de ce datathon, j'ai developpé une application Web  et j'ai aussi appris les bases de developpement d'un model de machine learning",
+        "company": {
+            "name": "ESEO Dijon",
+            "location": "Dijon",
+            "website": "https://www.datathon.fr/"
+        },
+        "skills": ["Django", "Python", "Machine Learning", "AWS", "API"]
+    },
+    {
+        "_id": 1,
         "title": "(Alternance) Data scientist",
         "from": "Oct 2023",
-        "to": "Actuellement",
+        "to": "Août 2024",
         "logo": "PremistaLogo.png",
         "description": "Pendant mon alternance, j'ai été chargé de deux projets. Le premier consiste à créer une API web permettant d'enregistrer des informations dans une base de donnée. Le second projet vise à decrire le comportement d'un mal endetté",
         "company": {
@@ -13,20 +41,6 @@ export const experiences = [
         },
         "skills": ["Python", "SQL","GitHub","GitLab", "Django","FastAPI"]
     },
-    // {
-    //     "_id": 2,
-    //     "title": "(Stage) Développeur Full Stack",
-    //     "from": "Jan 2022",
-    //     "to": "Fev 2022",
-    //     "logo": "ids.png",
-    //     "description": "Au cours de ce stage, j'ai installé un serveur LDAP et j'ai mis en place une interface de gestion pour ce dernier. J'ai également établi une connexion entre le serveur et les différents services de l'entreprise. Pour réaliser ce projet, j'ai utilisé les technologies VueJS et Node.js.",
-    //     "company": {
-    //         "name": "Ideal Solutions",
-    //         "location": "Chalon-sur-Saône",
-    //         "website": "https://www.ideal-solutions.fr/"
-    //     },
-    //     "skills": ["NodeJS", "VueJS", "LDAP", "Linux", "API"]
-    // },
     // {
     //     "_id": 1,
     //     "title": "(Alternance) Data scientist",
