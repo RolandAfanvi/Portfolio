@@ -37,7 +37,7 @@ export const projects = [
         "image": "portfolio.png",
         "links": {
             "github": "https://github.com/RolandAfanvi/Portfolio",
-            "website": "#"
+            "website": "https://portfolio-8jh189dke-rolandafanvis-projects.vercel.app/"
         },
         "skills": ["NextJS", "Tailwindcss", "Framer Motion", "Docker"]
     }

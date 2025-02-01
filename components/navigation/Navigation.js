@@ -21,7 +21,7 @@ function Navigation() {
                     <motion.a
                         href="https://drive.google.com/drive/folders/1NFqiQtfWKbEh5peM5Pm17IrQBTkdAbPE?usp=sharing"
                         target="_blank"
-                        download
+                        //download
                         whileHover={{
                             backgroundColor: '#00FFE0',
                             color: 'white'
