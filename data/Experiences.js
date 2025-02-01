@@ -41,17 +41,5 @@ export const experiences = [
         },
         "skills": ["Python", "SQL","GitHub","GitLab", "Django","FastAPI"]
     },
-    // {
-    //     "_id": 1,
-    //     "title": "(Alternance) Data scientist",
-    //     "from": "Octobre 2023",
-    //     "to": " Actuellement",
-    //     "logo": "cc.jpg",
-    //     "description": "Au cours de ce stage, j'ai développé un site web pour présenter l'entreprise et permettre aux clients de créer des devis en ligne. Le site a été construit avec le framework Laravel.",
-    //     "company": {
-    //         "name": "Copain Cabriolet",
-    //         "location": "Buxy"
-    //     },
-    //     "skills": ["Laravel", "GitHub", "jQuery", "Figma", "MySQL"]
-    // }
+
 ]
