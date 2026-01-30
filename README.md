@@ -1,11 +1,11 @@
 
-HERE [Afanvi-kodjo-roland](https://afanvi-kodjo-roland-portfolio.vercel.app/) YOU CAN ACCESS THE PORTFOLIO
+HERE [Afanvi-kodjo-roland](https://kodjo-roland-afanvi.fr/) YOU CAN ACCESS THE PORTFOLIO
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
 
-First, run the development server:
+First, run the development server :
 
 ```bash
 npm run dev
