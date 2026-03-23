@@ -28,8 +28,12 @@ function About() {
                         hidden: { opacity: 0, x: -100 }
                     }}
                     className="font-roboto-mono mt-4 text-justify px-4 md:px-0">
-                        Je suis kodjo roland afanvi,un passionné d'informatique âgé de 21 ans. Actuellement en <span className="text-secondary">cycle d'ingenieur informatique </span> au <span className="text-secondary">CESI</span>, j'ai acquis une solide formation dans ce domaine. 
-                        Je suis passionné par l’informatique et j’aspire à faire de ma passion mon métier. Je suis passionné par la création de solutions informatiques innovantes qui répondent aux besoins des utilisateurs. Mon objectif est de continuer à développer mes compétences techniques, d'explorer de nouveaux domaines et de contribuer à des projets stimulants.
+                        
+                        Data Engineer spécialisé dans la conception et l’optimisation de pipelines de données.
+                        J’interviens sur l’ensemble du cycle de traitement de la donnée : <span className="text-secondary">collecte, transformation et structuration </span>, afin de construire des systèmes fiables et exploitables pour l’analyse et la prise de décision.
+                        Au cours de mes expériences, j’ai développé des pipelines <span className="text-secondary">ETL/ELT</span> , automatisé des flux de données, mis en place des contrôles de qualité et créé des <span className="text-secondary">tableaux de bord Power BI </span>pour faciliter le suivi des indicateurs clés.
+                        Je travaille principalement avec <span className="text-secondary">Python, SQL, Snowflake, l’ecosystème Azure , Talend, FiveTran </span>et bien d’autres outils et des frameworks de création d’API pour rendre les données accessibles et exploitables par les équipes métier.
+                        Mon objectif est de concevoir des systèmes data performants et scalables qui transforment les données brutes en informations à forte valeur, permettant d’améliorer la performance et la prise de décision dans les entreprises.
                 </motion.p>
                 <motion.div
                     initial="hidden"
@@ -44,15 +48,18 @@ function About() {
                     <p>Voici quelques-unes de mes compétences:</p>
                     <div className="w-full">
                         <ul className={`${styles.list_triangle} mt-1 marker:text-secondary inline-block md:block`}>
-                            <li className="w-fit md:w-full">Java</li>
+                            <li className="w-fit md:w-full">SQL</li>
                             <li className="w-fit md:w-full">Python</li>
-                            <li className="w-fit md:w-full">ReactJS</li>
-                            <li className="w-fit md:w-full">VueJS</li>
-                            <li className="w-fit md:w-full">Docker</li>
-                            <li className="w-fit md:w-full">NodeJS</li>
-                            <li className="w-fit md:w-full">C#</li>
+                            <li className="w-fit md:w-full">Snowflake</li>
+                            <li className="w-fit md:w-full">Azure Data Factory (ADF)</li>
+                            <li className="w-fit md:w-full">Power BI</li>
+                            <li className="w-fit md:w-full">Talend </li>
+                            <li className="w-fit md:w-full">Hadoop</li>
                             <li className="w-fit md:w-full">Git</li>
                             <li className="w-fit md:w-full">SQL</li>
+                            <li className="w-fit md:w-full">Git</li>
+                            <li className="w-fit md:w-full">API</li>
+
                         </ul>
                     </div>
                 </motion.div>
